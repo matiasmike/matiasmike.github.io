@@ -6,7 +6,7 @@ const moralisApi = "48ac609d-1a76-47c5-90ff-c6763a3bcc2b"    // Web3 Api key | h
 const collectionInfo = {
     name: "Tec.sellix.io",
     title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "10.07.2022", // Today date
+    date: "10.07.2023", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
